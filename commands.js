@@ -1,6 +1,4 @@
 const prefix = '!';
-const name = require('./commands/name.js');
-const salam = require('./commands/name.js');
 const reactionrole = require('./commands/reactionrole.js');
 const commands = {reactionrole};
 module.exports = async function(msg){
